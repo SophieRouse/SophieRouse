@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hi there! 👋
+My name is Sophie and I am an aspiring software engineer. To begin my career in software engineering I have taken a couple of Bootcamps to grow my skills. These included:
+- Code Institute's 5 Day Coding Challenge - While completing this challenge, I learnt the basics of HTML, CSS and JS.
+- HyperionDev's Software Engineering Bootcamp - From this bootcamp, I learnt how to code in Python and about OOP
 
-<!--
-**SophieRouse/SophieRouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### **🌱 I’m currently practicing:**
+- Python
+- JS
+- CSS
+- HTML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### **🔭 I’m currently working on:**
+- creating a portfolio website
+- a number guessing game and other games to practice my Python coding
+
+
+### **📫 How to reach me:** 
+      **LinkedIn**: [https://www.linkedin.com/in/sophierouse1/](url) 
+
+### **Fun Facts:**
+
+_⚡ Fun fact: I have a degree in Chemistry as well as a teaching degree!_
+
+_⚡ Fun fact: I do a lot of STEM communicating!_
+
+_⚡ Fun fact: I want to learn C++ and React!_
